@@ -1,2 +1,2 @@
-# Smartformatter
-Smartformatter package
+# smartformatter
+smart formatter package
